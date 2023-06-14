@@ -1,6 +1,4 @@
 # Genie
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)](https://github.com/complexitydev/DiscordGenesis)
-
 A discord bot for my personal channel written in python using discord.py. This is my first python project.
 
 # Features
