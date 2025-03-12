@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Canada" uploadOnCheckin="ca9fdb23-d166-4c29-90ba-75503df7d278">
+    <serverData>
+      <paths name="Canada">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ben/discord_bot/DiscordGenesis" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="Canada" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

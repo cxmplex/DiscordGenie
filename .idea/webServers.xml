@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ca9fdb23-d166-4c29-90ba-75503df7d278" name="Canada" url="http://192.99.0.166">
+        <fileTransfer host="192.99.0.166" port="21976" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21976" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
